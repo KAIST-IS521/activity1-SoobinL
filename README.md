@@ -1,3 +1,6 @@
-02/28 Activity
+IS521
 ---------------
-This is a 02/28 Activity submitted by Soobin Lee.
+#02/28 Activity
+---------------
+This is program that read CSV File and print out only the N-th column of the CSV.
+Using python 3.7.2
